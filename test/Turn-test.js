@@ -6,7 +6,7 @@ const Card = require('../src/Card');
 
 describe('Turn', function() {
   let card, turn;
-  beforeEach(()=>{
+  beforeEach(()=> {
     turn = new Turn('object', card);
     card = new Card();
   })
