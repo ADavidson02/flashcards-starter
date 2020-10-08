@@ -7,5 +7,5 @@ console.log('Node server running on port 3000');
 
 const Game = require('../flashcards/src/Game.js');
 
-// const currentGame = new Game();
-// currentGame.start();
+const currentGame = new Game();
+currentGame.start();
