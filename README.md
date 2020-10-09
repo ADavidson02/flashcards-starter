@@ -9,5 +9,5 @@ The game is over when all of the cards have been answered and the user is presen
 ## Game in action:
 ![Game in action](
 
-###To play
+## To play
 In terminal enter "node index.js" on command line
